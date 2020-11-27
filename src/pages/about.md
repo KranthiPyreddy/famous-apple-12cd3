@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Vision
 sections:
   - type: hero_section
     title: Vision
