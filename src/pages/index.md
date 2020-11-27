@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: E-HEALTH RECORDS
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Electronic Health Records (EHR) is application for maintaining a person’s
+      entire health records electronically
     actions:
       - label: Learn More
         url: /features
