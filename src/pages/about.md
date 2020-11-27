@@ -5,19 +5,25 @@ sections:
     title: Mission
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: |-
+      Our vision is to create a website which makes health records easy and
+      quick accessible for authorised users.
+      Electronic Health Records mainly focus on integrating pharmacists,
+      doctors, and patients on one platform.
+      Our vision is divided into two parts. First is to make a web application
+      which is very user friendly i.e. easy to understand and use. Since there
+      are still many who are not very comfortable to use modern applications
+      on phone and computer despite having one as the applications online
+      are very complicated to users, so we want to make this application very
+      simple. We will also setup a help desk to solve all the queries.
+      Second, we want to make the health records access safe and secure.
+      As the health data is very sensitive, we will make sure it is accessible
+      only to authorised persons. For instance, a pharmacist will only be able
+      to see prescriptions from doctor but not all the medical history of a
+      patient. Similarly, only patient himself and authorised doctors will be
+      able to see all patients’ files. A doctor from different hospital will be
+      able to access a patient files from another hospital only when patient
+      permits him or when patient is admitted in his hospital.
   - type: team_section
     title: Our Team
     team:
