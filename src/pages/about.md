@@ -25,7 +25,7 @@ sections:
       able to access a patient files from another hospital only when patient
       permits him or when patient is admitted in his hospital.
   - type: team_section
-    title: Our Team
+    title: ''
     team:
       - src/data/team/miles-tone.yaml
       - src/data/team/dianne-ameter.yaml
