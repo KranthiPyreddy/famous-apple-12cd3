@@ -1,5 +1,5 @@
 ---
-title: ''
+title: blog
 excerpt: lorem-ipsum
 template: page
 ---
