@@ -27,7 +27,6 @@ sections:
   - type: team_section
     title: ''
     team:
-      - src/data/team/hanson-deck.yaml
       - src/data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
