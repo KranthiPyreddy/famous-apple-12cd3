@@ -26,8 +26,7 @@ sections:
       permits him or when patient is admitted in his hospital.
   - type: team_section
     title: ''
-    team:
-      - src/data/team/gordon-norman.yaml
+    team: []
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
