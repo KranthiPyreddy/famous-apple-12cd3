@@ -1,5 +1,5 @@
 ---
-title: Mar
+title: 'Marketing '
 sections:
   - type: hero_section
     title: Features
