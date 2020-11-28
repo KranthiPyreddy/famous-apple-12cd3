@@ -3,7 +3,7 @@ title: 'Marketing '
 sections:
   - type: hero_section
     title: 'Marketing '
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: ''
     align: center
   - type: features_section
     features:
