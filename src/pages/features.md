@@ -52,7 +52,7 @@ sections:
         image: images/feature.svg
         image_position: right
         actions:
-          - label: Learn More
+          - label: ''
             url: /about
             style: primary
 template: advanced
