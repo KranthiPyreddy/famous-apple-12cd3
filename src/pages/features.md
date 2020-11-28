@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Feature 1
+      - title: ''
         content: >-
           we have two kinds of customers. In order to get hospitals and
           pharmacies
