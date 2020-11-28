@@ -55,17 +55,5 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /blog
-            style: primary
 template: advanced
 ---
