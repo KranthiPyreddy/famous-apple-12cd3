@@ -49,7 +49,7 @@ sections:
 
           $100-$1000 per month depending on place and size of the billboard
         align: left
-        image: images/feature.svg
+        image: images/images.jfif
         image_position: right
         actions: []
 template: advanced
