@@ -30,8 +30,8 @@ sections:
           advertise in India. Similarly, to advertise in YouTube it will cost at
           least $10 per day for local
 
-          campaigns [1]. So, if we post 3 Ads per week in Facebook it might cost
-          us approximately $18
+          campaigns. So, if we post 3 Ads per week in Facebook it might cost us
+          approximately $18
 
           for a month of Facebook advertising. Also assume we posted a video on
           YouTube only on
