@@ -9,26 +9,22 @@ sections:
     features:
       - title: ''
         content: >-
-          we have two kinds of customers. In order to get hospitals and
-          pharmacies
+          we have two kinds of customers.
 
-          to collaborate with our venture we will majorly use digital marketing.
+          In order to get hospitals and pharmacies to collaborate with our
+          venture we will majorly use digital marketing.
 
           As for patients we would use digital and print media, we would
-          advertise in collaborated
-
-          hospitals, pharmacies extensively in the form of print media and
-          through digital media in the
+          advertise in collaborated hospitals, pharmacies extensively in the
+          form of print media and through digital media in the
 
           region in which collaborated hospitals and pharmacies are situated.
 
           Marketing budget:
 
           Digital Marketing: A Facebook Ad can cost 76 rupees which is
-          approximately $ 1.5 per day to
-
-          advertise in India. Similarly, to advertise in YouTube it will cost at
-          least $10 per day for local
+          approximately $ 1.5 per day to advertise in India. Similarly, to
+          advertise in YouTube it will cost at least $10 per day for local
 
           campaigns. So, if we post 3 Ads per week in Facebook it might cost us
           approximately $18
