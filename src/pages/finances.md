@@ -15,7 +15,7 @@ sections:
       will be collaborating with. In return we will advertises their products
       and
 
-      services in the patient’s page. **
+      services in the patient’s page.
   - type: team_section
     title: ''
     team: []
