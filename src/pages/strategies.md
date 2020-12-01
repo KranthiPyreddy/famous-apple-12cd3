@@ -2,7 +2,7 @@
 title: marketing
 sections:
   - type: hero_section
-    title: Marketing
+    title: Stra
     align: center
   - type: content_section
     content: |
