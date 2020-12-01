@@ -8,7 +8,7 @@ sections:
       entire health records electronically
     actions:
       - label: Learn More
-        url: /features
+        url: /about
         style: primary
       - label: Contact Us
         url: /contact
