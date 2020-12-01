@@ -34,7 +34,7 @@
             {
                 "label": "Finances",
                 "url": "/finances",
-                "style": "link",
+                "style": "primary",
                 "new_window": true,
                 "type": "action"
             }
