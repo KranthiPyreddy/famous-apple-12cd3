@@ -19,14 +19,5 @@ sections:
   - type: team_section
     title: ''
     team: []
-  - type: cta_section
-    title: Join the Team
-    subtitle: ''
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
-    has_background: true
-    background_color: blue
 template: advanced
 ---
