@@ -32,7 +32,7 @@
                 "type": "action"
             },
             {
-                "label": "inances",
+                "label": "Finances",
                 "url": "finances",
                 "style": "link",
                 "new_window": true,
