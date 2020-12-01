@@ -2,7 +2,7 @@
 title: risk
 sections:
   - type: hero_section
-    title: Finances
+    title: Risks
     align: center
   - type: content_section
     content: >-
