@@ -2,7 +2,7 @@
 title: Vision
 sections:
   - type: hero_section
-    title: Vision
+    title: Finances
     align: center
   - type: content_section
     content: |-
