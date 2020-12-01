@@ -5,25 +5,17 @@ sections:
     title: Finances
     align: center
   - type: content_section
-    content: |-
-      Our vision is to create a website which makes health records easy and
-      quick accessible for authorised users.
-      Electronic Health Records mainly focus on integrating pharmacists,
-      doctors, and patients on one platform.
-      Our vision is divided into two parts. First is to make a web application
-      which is very user friendly i.e. easy to understand and use. Since there
-      are still many who are not very comfortable to use modern applications
-      on phone and computer despite having one as the applications online
-      are very complicated to users, so we want to make this application very
-      simple. We will also setup a help desk to solve all the queries.
-      Second, we want to make the health records access safe and secure.
-      As the health data is very sensitive, we will make sure it is accessible
-      only to authorised persons. For instance, a pharmacist will only be able
-      to see prescriptions from doctor but not all the medical history of a
-      patient. Similarly, only patient himself and authorised doctors will be
-      able to see all patients’ files. A doctor from different hospital will be
-      able to access a patient files from another hospital only when patient
-      permits him or when patient is admitted in his hospital.
+    content: >-
+      In our website we will get our major revenue from advertising of drugs
+
+      and hospitals. Patients will only pay a minimal charge to access the
+
+      website, but we will majorly charge the hospitals and pharmacies we
+
+      will be collaborating with. In return we will advertises their products
+      and
+
+      services in the patient’s page. 
   - type: team_section
     title: ''
     team: []
