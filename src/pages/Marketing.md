@@ -46,6 +46,7 @@ sections:
 
       region in which collaborated hospitals and pharmacies are situated.
 
+
       Marketing budget:
 
       1. Digital Marketing: A Facebook Ad can cost 76 rupees which is
