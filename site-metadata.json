@@ -27,7 +27,7 @@
             {
                 "label": "strategies",
                 "url": "/strategies",
-                "style": "link",
+                "style": "primary",
                 "new_window": true,
                 "type": "action"
             },
