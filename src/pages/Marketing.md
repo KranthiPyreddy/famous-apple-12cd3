@@ -2,7 +2,7 @@
 title: marketing
 sections:
   - type: hero_section
-    title: Market
+    title: Marketing
     align: center
   - type: content_section
     content: >-
