@@ -1,5 +1,5 @@
 ---
-title: finances
+title: risk
 sections:
   - type: hero_section
     title: Finances
