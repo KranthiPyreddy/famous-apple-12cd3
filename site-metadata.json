@@ -33,7 +33,7 @@
             },
             {
                 "label": "Finances",
-                "url": "/finances",
+                "url": "finances",
                 "style": "link",
                 "new_window": true,
                 "type": "action"
