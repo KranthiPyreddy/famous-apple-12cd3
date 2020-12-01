@@ -34,14 +34,7 @@ sections:
       will try to educate them with different campaigns.
 
 
-      3. Building off #2, how do you plan on marketing to your customer? Build a
-      marketing plan
-
-      with estimated budget. Use real numbers. Research Google Ads, Facebook ads
-      etc.
-
-      As explained above we have two kinds of customers. In order to get
-      hospitals and pharmacies
+      In order to get hospitals and pharmacies
 
       to collaborate with our venture we will majorly use digital marketing.
 
