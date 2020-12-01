@@ -48,24 +48,20 @@ sections:
 
       Marketing budget:
 
-      Digital Marketing: A Facebook Ad can cost 76 rupees which is approximately
-      $ 1.5 per day to
-
-      advertise in India. Similarly, to advertise in YouTube it will cost at
-      least $10 per day for local
+      1. Digital Marketing: A Facebook Ad can cost 76 rupees which is
+      approximately $ 1.5 per day toadvertise in India. Similarly, to advertise
+      in YouTube it will cost at least $10 per day for local
 
       campaigns. So, if we post 3 Ads per week in Facebook it might cost us
-      approximately $18
-
-      for a month of Facebook advertising. Also assume we posted a video on
-      YouTube only on
+      approximately $18 for a month of Facebook advertising. Also assume we
+      posted a video on YouTube only on
 
       weekends. It would cost us $80 per month with least amount. Together
       digital marketing
 
       budget for one year is around $1200
 
-      Print Media Marketing Budget: To advertise a poster for a week in India
+      2. Print Media Marketing Budget: To advertise a poster for a week in India
       would cost around
 
       $20. So, for a year it would cost around $1100 and a Billboard
