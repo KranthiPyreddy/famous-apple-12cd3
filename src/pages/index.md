@@ -36,7 +36,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /
             style: secondary
 template: advanced
 ---
