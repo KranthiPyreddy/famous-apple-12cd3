@@ -33,7 +33,7 @@
                 "label": "strategies",
                 "url": "/strategies",
                 "style": "link",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ]
