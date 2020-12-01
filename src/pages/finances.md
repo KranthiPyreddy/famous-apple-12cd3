@@ -1,5 +1,5 @@
 ---
-title: Vision
+title: finances
 sections:
   - type: hero_section
     title: Finances
