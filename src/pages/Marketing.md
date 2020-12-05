@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Marketing
     align: center
+    image: images/Tesla.jpeg
   - type: content_section
     content: >-
       We have two kinds of customers the
