@@ -5,6 +5,7 @@ sections:
     title: Strategies
     align: center
     image: images/Screen Shot 2020-12-05 at 4.43.01 AM.png
+    image_position: right
   - type: content_section
     content: >-
       1. **Loyalty programs:** Points or offers to membership customers will
