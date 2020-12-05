@@ -3,7 +3,7 @@ title: marketing
 sections:
   - type: hero_section
     title: Marketing
-    align: right
+    align: center
     image_position: right
     has_background: true
     image: images/Marketing.jpg
