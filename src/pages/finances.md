@@ -3,7 +3,7 @@ title: finances
 sections:
   - type: hero_section
     title: Finances
-    align: center
+    align: left
     image: images/Finanses.jpg
   - type: content_section
     content: >-
