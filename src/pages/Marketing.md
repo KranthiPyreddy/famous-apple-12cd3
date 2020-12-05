@@ -8,12 +8,7 @@ sections:
     has_background: true
     image: images/Marketing.jpg
     subtitle: ''
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        new_window: false
-        type: action
+    actions: []
   - type: content_section
     content: >-
       We have two kinds of customers the
