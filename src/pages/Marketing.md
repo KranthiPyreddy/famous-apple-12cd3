@@ -12,9 +12,9 @@ sections:
     content: >-
       We have two kinds of customers the
 
-      1.  hospitals, pharmacies
+      1. Hospitals, Pharmacies
 
-      2.  patients
+      2. Patients
 
 
       Hospitals, pharmacies can also be considered as investors as we are going
