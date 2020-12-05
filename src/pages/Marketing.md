@@ -7,7 +7,7 @@ sections:
     image_position: left
     has_background: true
     image: images/Marketing.jpg
-    subtitle: Marketing
+    subtitle: ''
   - type: content_section
     content: >-
       We have two kinds of customers the
