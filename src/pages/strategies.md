@@ -3,7 +3,7 @@ title: marketing
 sections:
   - type: hero_section
     title: Strategies
-    align: left
+    align: center
     image: images/Screen Shot 2020-12-05 at 4.43.01 AM.png
   - type: content_section
     content: >-
