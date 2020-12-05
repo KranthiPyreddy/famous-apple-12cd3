@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Finances
     align: center
+    image: images/Finanses.jpg
   - type: content_section
     content: >-
       In our website we will get our major revenue from advertising of drugs
