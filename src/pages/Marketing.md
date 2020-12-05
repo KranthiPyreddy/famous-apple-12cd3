@@ -6,6 +6,7 @@ sections:
     align: center
     image: images/Tesla.jpeg
     image_position: right
+    has_background: true
   - type: content_section
     content: >-
       We have two kinds of customers the
