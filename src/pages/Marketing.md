@@ -5,7 +5,7 @@ sections:
     title: Marketing
     align: center
     image_position: right
-    has_background: false
+    has_background: true
     image: images/Marketing.jpg
     subtitle: ''
   - type: content_section
