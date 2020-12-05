@@ -5,6 +5,7 @@ sections:
     title: Marketing
     align: center
     image: images/Tesla.jpeg
+    image_position: right
   - type: content_section
     content: >-
       We have two kinds of customers the
