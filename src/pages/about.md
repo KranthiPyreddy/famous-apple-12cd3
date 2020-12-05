@@ -5,6 +5,7 @@ sections:
     title: Vision
     align: left
     image: images/Screen Shot 2020-12-05 at 4.35.55 AM.png
+    image_position: right
   - type: content_section
     content: |-
       Our vision is to create a website which makes health records easy and
