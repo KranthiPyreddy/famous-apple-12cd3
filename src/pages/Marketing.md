@@ -6,6 +6,7 @@ sections:
     align: center
     image_position: right
     has_background: true
+    image: images/Marketing.jpg
   - type: content_section
     content: >-
       We have two kinds of customers the
