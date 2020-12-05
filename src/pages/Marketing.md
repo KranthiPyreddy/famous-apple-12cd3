@@ -8,11 +8,6 @@ sections:
     has_background: true
     image: images/Marketing.jpg
     subtitle: ''
-    background:
-      background_color: white
-      background_image_opacity: 0
-      background_image_size: cover
-      background_image_repeat: no-repeat
   - type: content_section
     content: >-
       We have two kinds of customers the
