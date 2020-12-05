@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Vision
     align: center
+    image: images/Screen Shot 2020-12-05 at 4.35.55 AM.png
   - type: content_section
     content: |-
       Our vision is to create a website which makes health records easy and
