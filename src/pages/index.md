@@ -24,7 +24,8 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: Digital Transition
-    team: []
+    team:
+      - src/data/team/person-k083ezu7v.json
     type: team_section
 template: advanced
 ---
