@@ -52,9 +52,10 @@ sections:
       region in which collaborated hospitals and pharmacies are situated.
 
 
-      Marketing budget:
+      **Marketing budget:**
 
-      1. Digital Marketing: A Facebook Ad can cost 76 rupees which is
+
+      **1. Digital Marketing:** A Facebook Ad can cost 76 rupees which is
       approximately $ 1.5 per day toadvertise in India. Similarly, to advertise
       in YouTube it will cost at least $10 per day for local
 
@@ -67,8 +68,9 @@ sections:
 
       budget for one year is around $1200
 
-      2. Print Media Marketing Budget: To advertise a poster for a week in India
-      would cost around
+
+      **2. Print Media Marketing Budget:** To advertise a poster for a week in
+      India would cost around
 
       $20. So, for a year it would cost around $1100 and a Billboard
       advertisement may cost around
