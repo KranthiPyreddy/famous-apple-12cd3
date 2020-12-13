@@ -35,7 +35,7 @@ sections:
     actions:
       - label: Contact Us
         url: /contact
-        style: link
+        style: secondary
     has_background: true
     background_color: blue
 template: advanced
