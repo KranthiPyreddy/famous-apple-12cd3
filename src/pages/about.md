@@ -1,5 +1,5 @@
 ---
-title: vision
+title: Vision
 sections:
   - type: hero_section
     title: Vision
