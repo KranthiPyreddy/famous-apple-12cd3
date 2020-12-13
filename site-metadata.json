@@ -44,7 +44,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact Us",
+                "label": "Git",
                 "url": "/contact",
                 "style": "primary"
             },
