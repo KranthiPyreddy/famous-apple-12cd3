@@ -17,7 +17,7 @@
             {
                 "label": "Risk",
                 "url": "/risk",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Contact Us",
