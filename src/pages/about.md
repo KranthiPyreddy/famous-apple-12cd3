@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Vision
     align: center
-    image: images/Screen Shot 2020-12-05 at 4.35.55 AM.png
+    image: images/Screen Shot 2020-12-13 at 8.55.33 AM.png
     image_position: right
   - type: content_section
     content: |-
