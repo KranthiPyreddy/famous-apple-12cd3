@@ -12,7 +12,7 @@
             {
                 "label": "Strategies ",
                 "url": "/strategies ",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Risk",
