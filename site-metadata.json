@@ -27,7 +27,7 @@
             {
                 "label": "Marketing ",
                 "url": "/Marketing",
-                "style": "link",
+                "style": "primary",
                 "new_window": true,
                 "type": "action"
             },
